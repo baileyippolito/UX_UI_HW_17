@@ -18,7 +18,8 @@ li {
 }
 
 nav li:hover {
-    color: red;
+    color: hotpink;
+    text-decoration: underline;
 }
 
 .heroBanner {
@@ -82,6 +83,15 @@ p {
     margin-top: 20px;
 }
 
+.downloadResume:hover {
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+    padding: 12px 22px;
+    margin-left: 610px;
+    margin-top: 20px;
+
+}
 footer {
     background-color: black;
     color: #FFFFFF;
